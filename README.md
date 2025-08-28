@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=8B5CF6&width=500&size=28&center=true&vCenter=true&duration=4000&lines=Hello!+Welcome+to+my+profile!;I+am+from+Brazil!;Analysis+and+Systems+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=8B5CF6&width=500&size=28&center=true&vCenter=true&duration=4000&lines=Hello!%20Welcome%20to%20my%20profile!;I%20am%20from%20Brazil!;Analysis%20Systems%20Development" alt="Typing SVG" />
 </div>
 
 <br>
@@ -29,12 +29,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorpdim&theme=github_dark&border_color=8B5CF6" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vitorpdim&theme=dark&background=0D1117&border=8B5CF6&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=C9D1D9" />
 </div>
 
 <br>
