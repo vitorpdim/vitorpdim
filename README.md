@@ -12,12 +12,6 @@
 
 <br>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorpdim)
-  
-</div>
-
 <br>
 
 <div align="center">
