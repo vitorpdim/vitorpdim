@@ -15,8 +15,8 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpdim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=8B5CF6&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9"/>
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitorpdim&layout=compact&theme=tokyonight)
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=vitorpdim&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitorpdim&layout=compact&theme=tokyonight"/>
 </div>
 
 <br>
