@@ -70,11 +70,5 @@
 <br>
 
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=vitorpdim&color=8B5CF6&style=for-the-badge&label=Profile+Views" />
-  
-</div>
-
-<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=footer" />
 </div>
